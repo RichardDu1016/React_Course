@@ -10,4 +10,4 @@
 
 - React 18
 - JavaScript ES6+
-- Vite or CRA (依每個作業不同)
+- Vite
